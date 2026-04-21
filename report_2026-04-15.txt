@@ -1,0 +1,12 @@
+=== LAPORAN PRODUKSI ===
+Farm: BRO FARM
+Tanggal : 2026-04-15 10:51:52.724545
+
+Total Produksi : 669
+Rata-rata      : 111.50
+Tertinggi      : 127
+Terendah       : 90
+
+=== ANALISIS ===
+Hari terbaik   : sebtu (127)
+Hari terburuk  : rabu (90)
